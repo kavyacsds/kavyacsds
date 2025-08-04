@@ -11,19 +11,22 @@
   </a>
 </p>
 
-- 🌱 I’m currently in my **final year of B.E.**, actively learning **Web Development** and **Data Science**
-- 💻 I enjoy working with **HTML**, **CSS**, **Python**, and exploring frameworks like **Django**
-- 🎯 Currently enhancing my skills in **Frontend technologies** and **problem-solving on LeetCode**
-- 📫 Reach me at: **kavyadsc@gmail.com**
+- 🌱 I’m currently in my **final year of B.E.**, actively learning **Web Development** and **Data Science**  
+- 💻 I enjoy working with **HTML**, **CSS**, **Python**, and exploring frameworks like **Django**  
+- 🎯 Currently enhancing my skills in **Frontend technologies** and **problem-solving on LeetCode**  
+- 📫 Reach me at: **kavyadsc@gmail.com**  
 - 🌐 I'm also exploring **Git**, **GitHub**, and **open-source contribution**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- You can add actual social links below -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="blank">LinkedIn</a> |
-  <a href="https://twitter.com/" target="blank">Twitter</a>
+  <a href="https://www.linkedin.com/in/kavyagv2004/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kavya%20G%20V-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/2MZe7GDRz6/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge" alt="LeetCode" />
+  </a>
 </p>
 
 ---
